@@ -1,3 +1,0 @@
-#!/bin/bash
-
-/usr/bin/reflector -f 80 -l 80 --number 50 --save /etc/pacman.d/mirrorlist
